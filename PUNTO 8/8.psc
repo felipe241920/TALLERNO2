@@ -1,4 +1,4 @@
-Proceso promedio_de_4_notas
+Proceso promedio_de_3_notas
 	Definir a,b,c,d,f,g,promedio Como Real;
 	Escribir 'ingrese las tres notas de los parciales';
 	Leer a,b,c;
